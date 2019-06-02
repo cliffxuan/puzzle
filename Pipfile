@@ -12,6 +12,7 @@ ipython = "*"
 [packages]
 pytest = "*"
 numpy = "*"
+h5py = "*"
 
 [requires]
 python_version = "3.7"
